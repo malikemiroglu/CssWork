@@ -1,2 +1,2 @@
 "# CssWork" 
-Zeplin üzerinden bir tasarımı flex kullanarak aynısını yapmaya çalıştım.
+Zeplin üzerinden bir tasarımı bootstrap kullanmadan flex kullanarak aynısını yapmaya çalıştım.
